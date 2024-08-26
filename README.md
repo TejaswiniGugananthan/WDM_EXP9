@@ -33,3 +33,4 @@ for this purpose.
 ![Screenshot (119)](https://github.com/user-attachments/assets/bb65c854-1ddf-404f-8d89-9f491bb20d81)
 
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
